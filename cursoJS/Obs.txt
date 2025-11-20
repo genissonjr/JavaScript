@@ -1,0 +1,6 @@
+aula 10
+
+/* Procurar eventos DOM:
+GOOGLE: javascript dom events list
+
+entrar : Event reference MDN*/
